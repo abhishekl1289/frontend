@@ -14,14 +14,12 @@ const Navigation = () => {
     const logoText={
         marginLeft:'10px',
     }
-    const logoImg={
-        fontSize:'30px'
-    }
+    
     
   return (
     <nav className={`${styles.navbar} container`}>
     <Link style={brandStyle} to="/">
-    <span style={logoImg}>👋</span>
+    <img src='/images/logo.png' alt='logo'/>
     <span style={logoText}>Audio-Space</span>
     </Link>
     </nav>

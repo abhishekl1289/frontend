@@ -5,7 +5,10 @@
     background: #1d1d1d;
     padding: 30px;
     border-radius: 20px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .headingWrapper{
     display: flex;
@@ -13,9 +16,7 @@
     justify-content: center;
     margin-bottom: 30px;
 }
-.logo{
-    font-size: 30px;
-}
+
 .heading{
     font-size: 22px;
     font-weight: bold;
