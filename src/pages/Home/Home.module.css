@@ -1,23 +1,23 @@
-.cardWrapper{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 5rem;
+.cardWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
 }
 
-.text{
-    font-size: 22px;
-    line-height: 1.6;
-    color: #C4C5C5;
-    margin-bottom: 30px;
-    text-align: center;
+.text {
+  font-size: 22px;
+  line-height: 1.6;
+  color: #c4c5c5;
+  margin-bottom: 30px;
+  text-align: center;
 }
-.signinWrapper{
-    margin-top: 20px;
+.signinWrapper {
+  margin-top: 20px;
 }
-.hasInvite{
-    color: #0077ff;
+.hasInvite {
+  color: #0077ff;
 }
-.check{
-    bottom: 0;
+.check {
+  bottom: 0;
 }

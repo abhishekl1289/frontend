@@ -6,7 +6,7 @@ const Loader = ({ message }) => {
     <div className="cardWrapper">
       <Card>
         <svg
-        className={styles.spinner}
+          className={styles.spinner}
           xmlns="http://www.w3.org/2000/svg"
           width="40"
           height="40"
